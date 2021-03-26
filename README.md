@@ -2,4 +2,4 @@
 
 Ikinci staj projenizi bu alana yukleyiniz.
 
-![Konular](staj-konular.png)
+![Konular](staj_konular.png)
